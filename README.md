@@ -54,8 +54,16 @@ This extension contributes a chat participant with the following attributes:
 
 ## License
 
-[Include your license information here]
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 
-[Include contribution guidelines here]
+We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details on how to:
+
+- Report bugs
+- Submit pull requests
+- Propose new features
+- Follow our code standards
+- Write documentation
+
+All contributions are understood to be under the same MIT License that covers the project.
